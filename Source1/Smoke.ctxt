@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.params=a\ b\ c\ d\ e\ f
+comment0.target=Smoke(int,\ int,\ int,\ int,\ int,\ java.awt.Image)
+comment1.params=g
+comment1.target=void\ move(java.awt.Graphics)
+comment2.params=
+comment2.target=boolean\ getVisible()
+comment3.params=g
+comment3.target=void\ draw(java.awt.Graphics)
+comment4.params=p
+comment4.target=void\ collidesWith(Brick)
+comment5.params=
+comment5.target=void\ hit()
+numComments=6

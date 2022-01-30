@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.params=x\ y\ width\ height\ img\ h\ l
+comment0.target=SpeedBrick(int,\ int,\ int,\ int,\ java.awt.Image,\ int,\ java.util.ArrayList)
+comment1.params=
+comment1.target=void\ hit()
+numComments=2

@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.params=x\ y\ width\ height\ img
+comment0.target=Laser(int,\ int,\ int,\ int,\ java.awt.Image)
+comment1.params=
+comment1.target=void\ move()
+comment2.params=b
+comment2.target=void\ collidesWith(Brick)
+numComments=3

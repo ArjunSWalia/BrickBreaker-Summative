@@ -1,0 +1,24 @@
+#BlueJ class context
+comment0.params=x\ y\ width\ height\ img\ sp
+comment0.target=Paddle(int,\ int,\ int,\ int,\ java.awt.Image,\ int)
+comment1.params=
+comment1.target=int\ getSpeed()
+comment10.params=b
+comment10.target=void\ AutomatedMove(Ball)
+comment2.params=sp
+comment2.target=void\ setSpeed(int)
+comment3.params=
+comment3.target=void\ hit()
+comment4.params=
+comment4.target=void\ moveRight()
+comment5.params=
+comment5.target=void\ moveLeft()
+comment6.params=s
+comment6.target=void\ setCannonMode(boolean)
+comment7.params=
+comment7.target=boolean\ getCannonMode()
+comment8.params=
+comment8.target=boolean\ getInverted()
+comment9.params=s
+comment9.target=void\ setInverted(boolean)
+numComments=11

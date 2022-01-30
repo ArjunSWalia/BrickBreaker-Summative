@@ -1,0 +1,4 @@
+#BlueJ class context
+comment0.params=x\ y\ width\ height\ img\ h\ l
+comment0.target=PowerUpBrick(int,\ int,\ int,\ int,\ java.awt.Image,\ int,\ java.util.ArrayList)
+numComments=1

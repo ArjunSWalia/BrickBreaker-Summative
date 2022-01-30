@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.params=x\ y\ width\ height\ img\ h\ l\ e
+comment0.target=ExplosiveBrick(int,\ int,\ int,\ int,\ java.awt.Image,\ int,\ java.util.ArrayList,\ boolean)
+comment1.params=
+comment1.target=int\ getHp()
+comment2.params=h
+comment2.target=void\ setHp(int)
+comment3.params=E
+comment3.target=void\ setExplode(boolean)
+comment4.params=
+comment4.target=boolean\ getExplode()
+comment5.params=
+comment5.target=void\ hit()
+numComments=6
